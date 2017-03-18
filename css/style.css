@@ -1,0 +1,13 @@
+/* Extras */
+.btn-primary {
+	background-color: #D36135
+}
+
+/* Header */
+.header-content-inner {
+	position: relative;
+	right: 300px;
+}
+h1 {
+	color: #D36135;
+}
